@@ -918,8 +918,13 @@
 			#header h1 a {
 				font-size: 1.25em;
 			}
-			#header h1 img {
-				margin: 0 6px;
+			#header h1:before {
+    			content: "";
+    			display: block;
+    			background: url("/images/small-logo.jpg") no-repeat;
+    			height: 100%;
+    			float: left;
+    			margin: 0 6px 0 0;
 			}
 
 		#header nav {
@@ -1000,7 +1005,7 @@
 	}
 
 		#banner:before {
-			content: url("../images/small-logo.jpg");
+			content: '';
 			position: absolute;
 			left: 0;
 			top: 0;
@@ -1016,6 +1021,10 @@
 
 			#banner .inner :last-child {
 				margin-bottom: 0;
+			}
+			#banner img#header-logo {
+				margin-bottom: 40px;
+				height: 10em;
 			}
 
 		#banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
