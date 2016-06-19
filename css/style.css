@@ -1027,6 +1027,9 @@
 				margin-bottom: 40px;
 				height: 10em;
 			}
+			#banner .inner .correctext{
+				transform: lowercase;
+			}
 
 		#banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
 			color: #ffffff;
