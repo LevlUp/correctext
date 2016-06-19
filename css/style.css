@@ -921,7 +921,7 @@
 			#header h1:before {
     			content: "";
     			display: block;
-    			background: url("/images/small-logo.jpg") no-repeat;
+    			background: url("/images/small-logo.png") no-repeat;
     			height: 100%;
     			float: left;
     			margin: 0 6px 0 0;
