@@ -1028,7 +1028,7 @@
 				height: 10em;
 			}
 			#banner .inner .correctext{
-				size: 120%;
+				font-size: 120%;
 			}
 
 		#banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
