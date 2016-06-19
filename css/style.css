@@ -918,6 +918,10 @@
 			#header h1 a {
 				font-size: 1.25em;
 			}
+			#header h1 img {
+				line-height: 3em;
+				
+			}
 
 		#header nav {
 			height: inherit;
