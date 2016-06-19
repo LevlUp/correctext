@@ -919,9 +919,7 @@
 				font-size: 1.25em;
 			}
 			#header h1 img {
-				line-height: 100%;
-				margin-bottom: -50%;
-				margin-right: 6px;
+				margin: 0 6px;
 			}
 
 		#header nav {
