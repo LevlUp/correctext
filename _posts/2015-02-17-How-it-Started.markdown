@@ -2,10 +2,14 @@
 layout: post
 ---
 <img src="{{ site.baseurl }}/images/pic03.jpg" class="fit image">
-Curabitur orci turpis, egestas placerat velit eget, dictum pellentesque ipsum. Suspendisse potenti. Suspendisse ac maximus arcu. Sed ut mattis ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum eleifend odio vitae varius aliquam. Quisque ac pretium nisi. Curabitur tempus urna ac ultrices commodo.
+A few beers and two peices of pizza into a Saturday morning I received a group text from my older sister. ot was a video of my nephew riding his bike without training wheels for the first time. As expected, I sent a message back with "Awesome!!" and "He's getting so big!"
 
-Curabitur iaculis est at mattis mattis. Aliquam erat volutpat. Etiam vitae cursus quam. Nunc ultricies nunc non lorem fringilla cursus. Etiam dapibus libero ac turpis accumsan pulvinar. Sed auctor velit eget mi consequat bibendum. Aliquam interdum purus eget metus pretium ullamcorper.
+Then I proceeded to send a picture of my then 8 month old son watching a movie. he had a scab on his nose and forehead of which my Dad immediately noticed and asked "What happened to his noggin daddy". I replied with, "Rubbed his head up and down on the mesh side of his pack and play. Was having fun making a pig face" My older sister said, "Oh boy", to which I replied, "Was laughing historically about it until it hurt"
 
-Pellentesque feugiat ex non ligula commodo, eget varius tortor pellentesque. Pellentesque id tortor felis. Cras fringilla ante eget orci laoreet, non consequat urna suscipit. Pellentesque luctus ac nulla vitae porttitor. Proin sed tortor quis magna efficitur efficitur a id leo. Donec efficitur augue et laoreet maximus. Ut semper egestas porttitor. Phasellus sagittis vulputate sem at laoreet.
+Text-Mesage FAIL! So I proceeded to try and correct it by sending, "Histarically*", "Wrong again", "Freaking phone". My dad replied, "Are you sure it wasn't the historic"
 
-Sed lobortis urna ut mi volutpat, sit amet euismod sapien tincidunt. Nulla facilisi. Pellentesque quis tempus neque. Mauris dictum ac sapien nec congue. In hac habitasse platea dictumst. Duis id pellentesque nisl. Morbi eget massa magna.
+So at this point I was kind of embarrassed and decided to conclude the message with, "Hysterically*", "Phew", "That was some rough texting fails", "Those were some rough texting fails*"
+
+So this was this was't over! I immediately looked to see if there was some sort of app that ensured your text messages were grammatically and spelled correct based on the context of the message... and much to my surprise it doesn't exist.
+
+That is how it started.
