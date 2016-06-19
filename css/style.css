@@ -1014,6 +1014,10 @@
 			#banner .inner :last-child {
 				margin-bottom: 0;
 			}
+			#banner #header-logo {
+				margin: 20px;
+				height: 180em;
+			}
 
 		#banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
 			color: #ffffff;
@@ -1093,3 +1097,4 @@
 		#footer .icons a {
 			color: #bbb;
 		}
+		
