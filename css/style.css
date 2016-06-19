@@ -922,7 +922,8 @@
     			content: "";
     			display: block;
     			background: url("/images/small-logo.png") no-repeat;
-    			height: 100%;
+    			height: inherit;
+				width: auto;
     			float: left;
     			margin: 0 6px 0 0;
 			}
