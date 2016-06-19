@@ -920,7 +920,8 @@
 			}
 			#header h1 img {
 				line-height: 3em;
-				
+				margin-bottom: -6px;
+				margin-right: 6px;
 			}
 
 		#header nav {
