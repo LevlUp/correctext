@@ -12,4 +12,4 @@ So at this point I was kind of embarrassed and decided to conclude the message w
 
 So this wasn't over! I immediately looked to see if there was some sort of app that ensured your text messages were grammatically and spelled correct based on the context of the message... and much to my surprise it didn't exist yet.
 
-That is how it starte
+That is how it started.
